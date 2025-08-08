@@ -34,7 +34,7 @@ public class BaseTest {
         driver.manage().window().maximize();
 //        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
     }
-//li[@id='item-3']/span[text()='Slider']
+
     @BeforeMethod
     public void loadApplication() {
         driver.get(DEMOQA_URL);

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c8ddd63-b1a8-47d4-a4eb-33953065949c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/base/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoqa/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoqa/pages/alerts_frames_windows/Alert_Frames_WindowsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoqa/pages/alerts_frames_windows/AlertsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoqa/pages/alerts_frames_windows/FramesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoqa/pages/alerts_frames_windows/ModalDialogsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoqa/pages/alerts_frames_windows/browserWindowsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoqa/pages/elements/DynamicPropertiesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoqa/pages/elements/ElementsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoqa/pages/elements/LinksPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoqa/pages/elements/TextBoxPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoqa/pages/elements/WebTablePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoqa/pages/forms/FormsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoqa/pages/forms/PraticeFormPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoqa/pages/widgets/DatePickerMenuPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoqa/pages/widgets/ProgressBarMenuPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoqa/pages/widgets/SelectMenuPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoqa/pages/widgets/SliderMenuPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoqa/pages/widgets/WidgetsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/saucedemo/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/saucedemo/pages/ProductPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/ActionsUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/DropDownUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/GetUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/JavaScriptUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/SwitchToUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/WaitUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part1/FirstSeleniumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part1/LoggingShouldNotPassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part2/com/saucedemo/base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part2/com/saucedemo/test/login/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part2/com/saucedemo/test/products/ProductsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part3_4/com/demoqa/base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part3_4/com/demoqa/tests/part3/elements/LinksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part3_4/com/demoqa/tests/part3/elements/WebTableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part3_4/com/demoqa/tests/part3/forms/CheckboxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part3_4/com/demoqa/tests/part3/forms/RadioButtonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part3_4/com/demoqa/tests/part3/javascript/JavaScriptTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part3_4/com/demoqa/tests/part3/widgets/DateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part3_4/com/demoqa/tests/part3/widgets/ScrollSelectDropDownTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part3_4/com/demoqa/tests/part4/alerts/AlertsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part3_4/com/demoqa/tests/part4/dynamic_wait/DynamicWaitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part3_4/com/demoqa/tests/part4/frames/FramesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part3_4/com/demoqa/tests/part4/interactions/KeyboardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part3_4/com/demoqa/tests/part4/interactions/SliderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part3_4/com/demoqa/tests/part4/modals/ModalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part3_4/com/demoqa/tests/part4/screenshots/CaptureFailedScreenshotsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Part3_4/com/demoqa/tests/part4/windows/WindowsTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="30dbQ02QF7XZ4jpLkIzTCP32oOA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.AlertsTest.testConfirmationAlert.executor": "Run",
+    "TestNG.AlertsTest.testInformationAlert.executor": "Run",
+    "TestNG.AlertsTest.testPromptAlert.executor": "Run",
+    "TestNG.CaptureFailedScreenshotsTest.testClickingSubmitWithoutJavaScriptExecutor.executor": "Run",
+    "TestNG.CheckboxTest.testCheckbox.executor": "Run",
+    "TestNG.DateTest.testSelectingDate.executor": "Run",
+    "TestNG.DynamicWaitTest.testProgressBar.executor": "Run",
+    "TestNG.DynamicWaitTest.testVisibleAfterButtonText.executor": "Run",
+    "TestNG.FirstSeleniumTest.executor": "Run",
+    "TestNG.FirstSeleniumTest.testLoggingIntoApplication.executor": "Run",
+    "TestNG.FramesTest.testFrameSmallBox.executor": "Run",
+    "TestNG.FramesTest.testFramesBigBox.executor": "Run",
+    "TestNG.JavaScriptTest.executor": "Run",
+    "TestNG.JavaScriptTest.testScrollingToElement.executor": "Run",
+    "TestNG.KeyboardTest.testApplicationUsingKeyboard.executor": "Debug",
+    "TestNG.LinksTest.testLinks.executor": "Run",
+    "TestNG.LoggingShouldNotPassTest.executor": "Run",
+    "TestNG.LoginTest.testLoginErrorMessage.executor": "Run",
+    "TestNG.ModalTest.testModalDialog.executor": "Run",
+    "TestNG.ProductsTest.testProductsHeaderIsDisplayed.executor": "Run",
+    "TestNG.RadioButtonTest.testRadioButton.executor": "Run",
+    "TestNG.ScrollSelectDropDownTest.testMultiSelectDropDown.executor": "Run",
+    "TestNG.SliderTest.testSliderResult.executor": "Run",
+    "TestNG.WebTableTest.testWebPage.executor": "Run",
+    "TestNG.WebTableTest.testWebTable.executor": "Run",
+    "TestNG.WindowsTest.testNewWindowURL.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Rami/.jdks/semeru-21.0.8",
+    "onboarding.tips.debug.path": "C:/Users/Rami/IdeaProjects/SeleniumFreeCodeCamp/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Part1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.KeyboardTest.testApplicationUsingKeyboard">
+    <configuration name="DynamicWaitTest.testProgressBar" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumFreeCodeCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part3_4.com.demoqa.tests.part4.dynamic_wait.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Part3_4.com.demoqa.tests.part4.dynamic_wait" />
+      <option name="MAIN_CLASS_NAME" value="Part3_4.com.demoqa.tests.part4.dynamic_wait.DynamicWaitTest" />
+      <option name="METHOD_NAME" value="testProgressBar" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicWaitTest.testVisibleAfterButtonText" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumFreeCodeCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part3_4.com.demoqa.tests.part4.dynamic_wait.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Part3_4.com.demoqa.tests.part4.dynamic_wait" />
+      <option name="MAIN_CLASS_NAME" value="Part3_4.com.demoqa.tests.part4.dynamic_wait.DynamicWaitTest" />
+      <option name="METHOD_NAME" value="testVisibleAfterButtonText" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeyboardTest.testApplicationUsingKeyboard" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumFreeCodeCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part3_4.com.demoqa.tests.part4.interactions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Part3_4.com.demoqa.tests.part4.interactions" />
+      <option name="MAIN_CLASS_NAME" value="Part3_4.com.demoqa.tests.part4.interactions.KeyboardTest" />
+      <option name="METHOD_NAME" value="testApplicationUsingKeyboard" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SliderTest.testSliderResult" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumFreeCodeCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part3_4.com.demoqa.tests.part4.interactions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Part3_4.com.demoqa.tests.part4.interactions" />
+      <option name="MAIN_CLASS_NAME" value="Part3_4.com.demoqa.tests.part4.interactions.SliderTest" />
+      <option name="METHOD_NAME" value="testSliderResult" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowsTest.testNewWindowURL" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumFreeCodeCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part3_4.com.demoqa.tests.part4.windows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Part3_4.com.demoqa.tests.part4.windows" />
+      <option name="MAIN_CLASS_NAME" value="Part3_4.com.demoqa.tests.part4.windows.WindowsTest" />
+      <option name="METHOD_NAME" value="testNewWindowURL" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.KeyboardTest.testApplicationUsingKeyboard" />
+        <item itemvalue="TestNG.SliderTest.testSliderResult" />
+        <item itemvalue="TestNG.DynamicWaitTest.testProgressBar" />
+        <item itemvalue="TestNG.DynamicWaitTest.testVisibleAfterButtonText" />
+        <item itemvalue="TestNG.WindowsTest.testNewWindowURL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c8ddd63-b1a8-47d4-a4eb-33953065949c" name="Changes" comment="" />
+      <created>1753960385195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753960385195</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Part2/com/saucedemo/base/BaseTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
